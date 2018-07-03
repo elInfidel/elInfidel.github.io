@@ -9,6 +9,10 @@ body {
     font-size: 6em;
 }
 
+.bio {
+    max-width: 400px;
+}
+
 .companies {
     display:inline-block;
 }

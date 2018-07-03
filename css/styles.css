@@ -1,0 +1,21 @@
+body {
+    background-color: #f4f4f4;
+
+    color: #282828;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.title {
+    font-size: 6em;
+}
+
+.companies {
+    display:inline-block;
+}
+
+.companies img {
+    padding: 10px;
+    width: 125px;
+    height: 125px;
+    object-fit: contain
+}

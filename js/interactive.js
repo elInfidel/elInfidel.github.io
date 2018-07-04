@@ -43,6 +43,7 @@ $(document).ready(function () {
 
     var lastFrameTime = new Date().getTime() / 1000;
     var totalGameTime = 0;
+    
     function update(dt, t) {
 
         cube.rotation.x += 1 * dt;

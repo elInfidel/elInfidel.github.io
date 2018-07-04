@@ -1,6 +1,6 @@
 body {
+    margin-left: 16px;
     background-color: #f4f4f4;
-
     color: #282828;
     font-family: 'Quicksand', sans-serif;
 }
@@ -14,7 +14,7 @@ body {
 }
 
 .companies {
-    display:inline-block;
+    display: inline-block;
 }
 
 .companies img {
@@ -22,4 +22,18 @@ body {
     width: 125px;
     height: 125px;
     object-fit: contain
+}
+
+.social-media img {
+    padding: 10px;
+    width: 40px;
+    height: 40px;
+    object-fit: contain
+}
+
+.secondary-content {
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    right: 0px;
 }

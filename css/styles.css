@@ -5,8 +5,14 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
+
 .title {
     font-size: 6em;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .bio {
@@ -24,11 +30,20 @@ body {
     object-fit: contain
 }
 
+.companies img:hover {
+    outline: dashed;
+    outline-width: 1px;
+}
+
 .social-media img {
     padding: 10px;
     width: 40px;
     height: 40px;
     object-fit: contain
+}
+
+.main-content .sub {
+    padding-left: 30px;
 }
 
 .secondary-content {

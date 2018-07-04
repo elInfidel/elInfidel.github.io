@@ -1,6 +1,6 @@
 
-const windowWidth = 600;
-const windowHeight = 600;
+const windowWidth = 900;
+const windowHeight = 900;
 
 $(document).ready(function () {
 
@@ -29,7 +29,7 @@ $(document).ready(function () {
     scene.add(spotlight);
 
     // Position the camera
-    camera.position.z = 5;
+    camera.position.z = 2;
 
     // Setup rendering loop
     window.requestAnimFrame = (function () {

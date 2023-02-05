@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.8808201f.chunk.js",
-    "main.js.map": "/static/js/main.8808201f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e35fd5db.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e35fd5db.js.map",
-    "static/css/2.9b4e53bf.chunk.css": "/static/css/2.9b4e53bf.chunk.css",
-    "static/js/2.6871add1.chunk.js": "/static/js/2.6871add1.chunk.js",
-    "static/js/2.6871add1.chunk.js.map": "/static/js/2.6871add1.chunk.js.map",
+    "main.css": "/static/css/main.100b6de2.css",
+    "main.js": "/static/js/main.0734f407.js",
+    "static/media/lazurite-logo.png": "/static/media/lazurite-logo.c42b226456432bff8528.png",
+    "static/media/spiff-commerce-logo-dark.svg": "/static/media/spiff-commerce-logo-dark.e7fbcec1dbc490841cf5090bc327b711.svg",
     "index.html": "/index.html",
-    "static/css/2.9b4e53bf.chunk.css.map": "/static/css/2.9b4e53bf.chunk.css.map",
-    "static/js/2.6871add1.chunk.js.LICENSE.txt": "/static/js/2.6871add1.chunk.js.LICENSE.txt",
-    "static/media/lazurite-logo.c42b2264.png": "/static/media/lazurite-logo.c42b2264.png",
-    "static/media/index.css": "/static/media/quicksand-latin-700.a99f20c7.woff"
+    "main.100b6de2.css.map": "/static/css/main.100b6de2.css.map",
+    "main.0734f407.js.map": "/static/js/main.0734f407.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e35fd5db.js",
-    "static/css/2.9b4e53bf.chunk.css",
-    "static/js/2.6871add1.chunk.js",
-    "static/js/main.8808201f.chunk.js"
+    "static/css/main.100b6de2.css",
+    "static/js/main.0734f407.js"
   ]
 }

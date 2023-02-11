@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.100b6de2.css",
-    "main.js": "/static/js/main.8c3cfece.js",
+    "main.js": "/static/js/main.62f1ace1.js",
+    "static/media/rct2.webp": "/static/media/rct2.718c528147c94c7558de.webp",
+    "static/media/babylonjs.webp": "/static/media/babylonjs.640e3c4f17cd033007c6.webp",
     "static/media/lazurite-logo.png": "/static/media/lazurite-logo.c42b226456432bff8528.png",
     "static/media/spiff-commerce-logo-dark.svg": "/static/media/spiff-commerce-logo-dark.e7fbcec1dbc490841cf5090bc327b711.svg",
     "index.html": "/index.html",
     "main.100b6de2.css.map": "/static/css/main.100b6de2.css.map",
-    "main.8c3cfece.js.map": "/static/js/main.8c3cfece.js.map"
+    "main.62f1ace1.js.map": "/static/js/main.62f1ace1.js.map"
   },
   "entrypoints": [
     "static/css/main.100b6de2.css",
-    "static/js/main.8c3cfece.js"
+    "static/js/main.62f1ace1.js"
   ]
 }
